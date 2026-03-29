@@ -23,7 +23,7 @@ export default function About() {
           <div className="flex justify-center">
             <div className="relative w-80 h-80 rounded-2xl overflow-hidden shadow-lg bg-white">
               <img
-                src="src/gavel.jpg"
+                src="https://i.ibb.co/673yxDBb/2025-12-29-1.jpg"
                 alt="Gayathri Ramaswamy"
                 className="w-full h-full object-contain"
               />
